@@ -43,3 +43,8 @@ Here are all the options we would like to implement:
 * specify what kind of accompanying food you are looking for (meat,fruit,spices,...)
 
 
+## Question for TA
+
+We did took note of your advice to modify and clarify our README. We hope it better corresponds to your expectations. If not, please do let us know what we still need to improve.
+
+
