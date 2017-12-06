@@ -1,0 +1,979 @@
+name,food_group
+Angelica,Herbs and Spices
+Savoy cabbage,Vegetables
+Silver linden,Herbs and Spices
+Kiwi,Fruits
+Onion,Vegetables
+Garden onion,Vegetables
+Leek,Vegetables
+Garlic,Herbs and Spices
+Chives,Herbs and Spices
+Lemon verbena,Herbs and Spices
+Cashew nut,Nuts
+Pineapple,Fruits
+Dill,Herbs and Spices
+Custard apple,Fruits
+Wild celery,Herbs and Spices
+Peanut,Nuts
+Burdock,Vegetables
+Horseradish,Herbs and Spices
+Tarragon,Herbs and Spices
+Mugwort,Herbs and Spices
+Asparagus,Vegetables
+Oat,Cereals and cereal products
+Star fruit,Fruits
+Brazil nut,Nuts
+beet,Vegetables
+Borage,Herbs and Spices
+Chinese mustard,Vegetables
+Swede,Vegetables
+Rape,Vegetables
+cabbage,Vegetables
+Cauliflower,Vegetables
+Brussel sprouts,Vegetables
+Kohlrabi,Vegetables
+Broccoli,Vegetables
+Chinese cabbage,Vegetables
+Turnip,Herbs and Spices
+Pigeon pea,Vegetables
+Tea,Vegetables
+Capers,Herbs and Spices
+Peppers,Vegetables
+Papaya,Fruits
+Safflower,Herbs and Spices
+Caraway,Herbs and Spices
+Pecan nut,Nuts
+Chestnut,Nuts
+Roman camomile,Herbs and Spices
+Chickpea,Vegetables
+Endive,Vegetables
+Chicory,Vegetables
+Chinese cinnamon,Herbs and Spices
+Ceylon cinnamon,Herbs and Spices
+Watermelon,Vegetables
+Lime,Fruits
+Lemon,Fruits
+Pummelo,Fruits
+Tangerine,Fruits
+Clementine,Fruits
+Orange,Fruits
+Sweet orange,Fruits
+Coffee,Coffee and coffee products
+Arabica coffee,Coffee and coffee products
+Robusta coffee,Coffee and coffee products
+Coriander,Herbs and Spices
+hazelnut,Nuts
+Saffron,Herbs and Spices
+Muskmelon,Vegetables
+Cucumber,Vegetables
+Gourd,Vegetables
+Cumin,Herbs and Spices
+Turmeric,Herbs and Spices
+Quince,Fruits
+Lemon grass,Herbs and Spices
+Globe artichoke,Vegetables
+Wild carrot,Vegetables
+Japanese persimmon,Fruits
+Cardamom,Herbs and Spices
+Black crowberry,Fruits
+Loquat,Fruits
+Rocket salad,Vegetables
+Wax apple,Fruits
+buckwheat,Cereals and cereal products
+Tartary buckwheat,Cereals and cereal products
+Fig,Fruits
+Fennel,Herbs and Spices
+Strawberry,Fruits
+Black huckleberry,Fruits
+Soy bean,Soy
+Sunflower,Herbs and Spices
+Sea-buckthornberry,Fruits
+Barley,Cereals and cereal products
+Hyssop,Herbs and Spices
+Star anise,Herbs and Spices
+Swamp cabbage,Vegetables
+Sweet potato,Vegetables
+Black walnut,Nuts
+walnut,Nuts
+Lettuce,Vegetables
+Grass pea,Vegetables
+Sweet bay,Herbs and Spices
+Lentils,Vegetables
+Garden cress,Vegetables
+Lovage,Herbs and Spices
+Flaxseed,Herbs and Spices
+Mexican oregano,Herbs and Spices
+Lichee,Fruits
+Lupine,Vegetables
+Apple,Fruits
+Mango,Fruits
+German camomile,Herbs and Spices
+Lemon balm,Herbs and Spices
+Mint,Herbs and Spices
+Orange mint,Herbs and Spices
+Cornmint,Herbs and Spices
+Spearmint,Herbs and Spices
+Peppermint,Herbs and Spices
+Medlar,Fruits
+Bitter gourd,Vegetables
+Mulberry,Fruits
+Black mulberry,Fruits
+Nutmeg,Herbs and Spices
+Sweet basil,Herbs and Spices
+Evening primrose,Herbs and Spices
+Olive,Vegetables
+Sweet marjoram,Herbs and Spices
+Pot marjoram,Herbs and Spices
+oregano,Herbs and Spices
+Rice,Cereals and cereal products
+Millet,Cereals and cereal products
+Poppy,Herbs and Spices
+Passion fruit,Fruits
+Parsnip,Vegetables
+Avocado,Vegetables
+Parsley,Herbs and Spices
+Scarlet bean,Vegetables
+Lima bean,Vegetables
+bean,Vegetables
+Date,Fruits
+Black chokeberry,Fruits
+Anise,Herbs and Spices
+Pine nut,Nuts
+Pepper,Herbs and Spices
+Pistachio,Nuts
+pea,Vegetables
+Purslane,Herbs and Spices
+Cherry,Fruits
+Plum,Fruits
+Apricot,Fruits
+Sweet cherry,Fruits
+Sour cherry,Fruits
+European plum,Fruits
+Almond,Nuts
+Peach,Fruits
+Guava,Fruits
+Pomegranate,Fruits
+Pear,Fruits
+Radish,Vegetables
+Garden rhubarb,Vegetables
+Blackcurrant,Fruits
+Redcurrant,Fruits
+Gooseberry,Fruits
+Watercress,Herbs and Spices
+Rosemary,Herbs and Spices
+Blackberry,Fruits
+Raspberry,Fruits
+Cloudberry,Fruits
+Red raspberry,Fruits
+Black raspberry,Fruits
+Sorrel,Herbs and Spices
+sage,Herbs and Spices
+Black elderberry,Fruits
+Summer savory,Herbs and Spices
+Winter savory,Herbs and Spices
+Rye,Cereals and cereal products
+Sesame,Herbs and Spices
+Garden tomato,Vegetables
+Cherry tomato,Vegetables
+Tomato,Vegetables
+Eggplant,Vegetables
+Potato,Vegetables
+Rowanberry,Fruits
+Sorghum,Cereals and cereal products
+Spinach,Vegetables
+Cloves,Herbs and Spices
+Tamarind,Fruits
+Dandelion,Herbs and Spices
+Cocoa bean,Cocoa and cocoa products
+thyme,Herbs and Spices
+Linden,Herbs and Spices
+Small-leaf linden,Herbs and Spices
+Fenugreek,Herbs and Spices
+wheat,Cereals and cereal products
+Blueberry,Fruits
+Cranberry,Fruits
+Huckleberry,Fruits
+Lowbush blueberry,Fruits
+Sparkleberry,Fruits
+Highbush blueberry,Fruits
+American cranberry,Fruits
+Bilberry,Fruits
+Lingonberry,Fruits
+Vanilla,Herbs and Spices
+verbena,Herbs and Spices
+Broad bean,Vegetables
+Adzuki bean,Vegetables
+Gram bean,Vegetables
+Mung bean,Vegetables
+Climbing bean,Vegetables
+Cowpea,Vegetables
+Muscadine grape,Fruits
+grape,Fruits
+Corn,Cereals and cereal products
+Ginger,Herbs and Spices
+Arctic blackberry,Fruits
+Banana,Fruits
+Bayberry,Fruits
+Elliott's blueberry,Fruits
+Canada blueberry,Fruits
+Bog bilberry,Fruits
+Buffalo currant,Fruits
+Celeriac,Vegetables
+Celery stalk,Vegetables
+Chinese chives,Herbs and Spices
+European cranberry,Fruits
+Deerberry,Fruits
+Ginseng,Herbs and Spices
+Cascade huckleberry,Fruits
+Oval-leaf huckleberry,Fruits
+Evergreen huckleberry,Fruits
+Red huckleberry,Fruits
+Longan,Fruits
+Macadamia nut,Nuts
+Summer grape,Fruits
+Fox grape,Fruits
+Nectarine,Fruits
+Peach,Fruits
+Green pepper,Vegetables
+Yellow pepper,Vegetables
+Red pepper,Vegetables
+Rambutan,Fruits
+Red rice,Cereals and cereal products
+Annual wild rice,Cereals and cereal products
+Swiss chard,Vegetables
+Lemon thyme,Herbs and Spices
+Tronchuda cabbage,Vegetables
+Japanese walnut,Nuts
+Welsh onion,Herbs and Spices
+Hard wheat,Cereals and cereal products
+Shallot,Vegetables
+Rocket salad,Vegetables
+Carrot,Vegetables
+Triticale,Cereals and cereal products
+Black cabbage,Vegetables
+Half-highbush blueberry,Fruits
+Celery leaves,Herbs and Spices
+Chicory leaves,Vegetables
+Komatsuna,Vegetables
+Pak choy,Vegetables
+Napa cabbage,Vegetables
+Chicory roots,Vegetables
+Pummelo,Fruits
+Grapefruit,Fruits
+Jostaberry,Fruits
+Kai-lan,Vegetables
+Italian oregano,Herbs and Spices
+Oxheart cabbage,Vegetables
+Daikon radish,Vegetables
+Black radish,Vegetables
+Radish,Vegetables
+Red beetroot,Vegetables
+Sweet rowanberry,Fruits
+Pineappple sage,Herbs and Spices
+Skunk currant,Fruits
+Beer,Beverages
+Bread,Cereals and cereal products
+Breakfast cereal,Cereals and cereal products
+Pasta,Cereals and cereal products
+Biscuit,Cereals and cereal products
+Sourdough,Cereals and cereal products
+Spirit,Beverages
+Fortified wine,Beverages
+Abalone,Aquatic foods
+Abiyuch,Fruits
+Acerola,Fruits
+Acorn,Nuts
+Winter squash,Vegetables
+Agar,Aquatic foods
+Red king crab,Aquatic foods
+Alfalfa,Herbs and Spices
+Allspice,Herbs and Spices
+Amaranth,Herbs and Spices
+Arrowhead,Vegetables
+Arrowroot,Vegetables
+Asian pear,Fruits
+Atlantic herring,Aquatic foods
+Atlantic mackerel,Aquatic foods
+Painted comber,Aquatic foods
+Atlantic pollock,Aquatic foods
+Atlantic wolffish,Aquatic foods
+Bamboo shoots,Vegetables
+Striped bass,Aquatic foods
+Beaver,Animal foods
+Beech nut,Nuts
+Beluga whale,Aquatic foods
+Bison,Animal foods
+Black bear,Animal foods
+Alaska blackfish,Aquatic foods
+Blue crab,Aquatic foods
+Blue mussel,Aquatic foods
+Northern bluefin tuna,Aquatic foods
+Bluefish,Aquatic foods
+Wild boar,Animal foods
+Bowhead whale,Aquatic foods
+Breadfruit,Fruits
+Breadnut tree seed,Herbs and Spices
+Rapini,Vegetables
+Brown bear,Animal foods
+Buffalo,Animal foods
+Burbot,Aquatic foods
+Giant butterbur,Vegetables
+American butterfish,Aquatic foods
+Butternut,Vegetables
+Calabash,Vegetables
+Cardoon,Vegetables
+Caribou,Animal foods
+Natal plum,Fruits
+Carob,Vegetables
+carp,Aquatic foods
+Cassava,Vegetables
+Channel catfish,Aquatic foods
+Chayote,Vegetables
+Cherimoya,Fruits
+Chervil,Herbs and Spices
+Chia,Herbs and Spices
+Chicken,Animal foods
+Cock,Animal foods
+Hen,Animal foods
+Rooster,Animal foods
+Chinese broccoli,Vegetables
+Chinese chestnut,Nuts
+Chinese water chestnut,Vegetables
+Garland chrysanthemum,Vegetables
+Cisco,Aquatic foods
+Nuttall cockle,Aquatic foods
+Coconut,Fruits
+Pacific cod,Aquatic foods
+Atlantic cod,Aquatic foods
+octopus,Aquatic foods
+Corn salad,Vegetables
+Cottonseed,Herbs and Spices
+Catjang pea,Vegetables
+Crab apple,Fruits
+Squashberry,Fruits
+Atlantic croaker,Aquatic foods
+Cusk,Aquatic foods
+Cuttlefish,Aquatic foods
+Mule deer,Animal foods
+Devilfish,Aquatic foods
+Dock,Herbs and Spices
+Dolphin fish,Aquatic foods
+Freshwater drum,Aquatic foods
+Mallard duck,Animal foods
+Dungeness crab,Aquatic foods
+Durian,Fruits
+Eastern oyster,Aquatic foods
+Freshwater eel,Aquatic foods
+Elderberry,Fruits
+Elk,Animal foods
+Emu,Animal foods
+Oregon yampah,Vegetables
+European anchovy,Aquatic foods
+European chestnut,Nuts
+Turbot,Aquatic foods
+Fireweed,Herbs and Spices
+Florida pompano,Aquatic foods
+Ginkgo nuts,Herbs and Spices
+Greylag goose,Animal foods
+Grape,Fruits
+Greenland halibut/turbot,Aquatic foods
+Groundcherry,Vegetables
+Grouper,Aquatic foods
+Guinea hen,Animal foods
+Haddock,Aquatic foods
+halibut,Aquatic foods
+Hazelnut,Nuts
+Hickory nut,Nuts
+Horse,Animal foods
+Horseradish tree,Vegetables
+Alaska blueberry,Fruits
+Hyacinth bean,Vegetables
+Irish moss,Aquatic foods
+Pacific jack mackerel,Aquatic foods
+Jackfruit,Fruits
+Japanese chestnut,Nuts
+Java plum,Fruits
+Jerusalem artichoke,Vegetables
+Jujube,Fruits
+Jute,Vegetables
+Kale,Vegetables
+Kelp,Aquatic foods
+King mackerel,Aquatic foods
+Kumquat,Fruits
+Lambsquarters,Vegetables
+Leather chiton,Aquatic foods
+Wild leek,Vegetables
+ling,Aquatic foods
+Lingcod,Aquatic foods
+American lobster,Aquatic foods
+Loganberry,Fruits
+Lotus,Herbs and Spices
+Sacred lotus,Vegetables
+White lupine,Vegetables
+Malabar spinach,Vegetables
+Mammee apple,Fruits
+Purple mangosteen,Fruits
+Alpine sweetvetch,Vegetables
+Milkfish,Aquatic foods
+Monkfish,Aquatic foods
+Moose,Animal foods
+Moth bean,Vegetables
+Mountain yam,Vegetables
+Striped mullet,Aquatic foods
+Muskrat,Animal foods
+White mustard,Herbs and Spices
+Mustard spinach,Vegetables
+New Zealand spinach,Vegetables
+Nopal,Vegetables
+Ocean pout,Aquatic foods
+giant octopus,Aquatic foods
+Ohelo berry,Fruits
+Okra,Vegetables
+Tunicate,Aquatic foods
+Opossum,Animal foods
+Ostrich,Animal foods
+Spotted seal,Aquatic foods
+Pacific herring,Aquatic foods
+Pacific oyster,Aquatic foods
+Pacific rockfish,Aquatic foods
+Velvet duck,Animal foods
+Orange Pepper,Vegetables
+persimmon,Fruits
+Pheasant,Animal foods
+Northern pike,Aquatic foods
+Pili nut,Nuts
+Colorado pinyon,Nuts
+Pitanga,Fruits
+Plains prickly pear,Fruits
+French plantain,Fruits
+American pokeweed,Vegetables
+Polar bear,Animal foods
+Opium poppy,Herbs and Spices
+Prairie turnip,Vegetables
+Prickly pear,Fruits
+Quinoa,Herbs and Spices
+European rabbit,Animal foods
+Raccoon,Animal foods
+Rainbow smelt,Aquatic foods
+Rainbow trout,Aquatic foods
+Malabar plum,Fruits
+Rose hip,Herbs and Spices
+Roselle,Herbs and Spices
+Orange roughy,Aquatic foods
+Sablefish,Aquatic foods
+Pink salmon,Aquatic foods
+Chum salmon,Aquatic foods
+Coho salmon,Aquatic foods
+Sockeye salmon,Aquatic foods
+Chinook salmon,Aquatic foods
+Atlantic salmon,Aquatic foods
+Salmonberry,Fruits
+salsify,Vegetables
+Sapodilla,Fruits
+Mamey sapote,Fruits
+Spanish mackerel,Aquatic foods
+Pacific sardine,Aquatic foods
+Scallop,Aquatic foods
+Scup,Aquatic foods
+Sea cucumber,Aquatic foods
+Steller sea lion,Aquatic foods
+Bearded seal,Aquatic foods
+Ringed seal,Aquatic foods
+Seatrout,Aquatic foods
+Sesbania flower,Vegetables
+American shad,Aquatic foods
+Shark,Aquatic foods
+Sheefish,Aquatic foods
+Sheep,Animal foods
+Mutton,Animal foods
+Lamb,Animal foods
+Sheepshead,Aquatic foods
+Hedge mustard,Herbs and Spices
+Skipjack tuna,Aquatic foods
+Snapper,Aquatic foods
+Soursop,Fruits
+Spelt,Cereals and cereal products
+Spirulina,Aquatic foods
+Squab,Animal foods
+Squirrel,Animal foods
+Strawberry guava,Fruits
+Greater sturgeon,Aquatic foods
+White sucker,Aquatic foods
+Sugar apple,Fruits
+Pumpkinseed sunfish,Aquatic foods
+Swordfish,Aquatic foods
+Taro,Vegetables
+Teff,Herbs and Spices
+Tilefish,Aquatic foods
+Mexican groundcherry,Vegetables
+Towel gourd,Vegetables
+Salmon,Aquatic foods
+Trout,Aquatic foods
+Turkey,Animal foods
+Cattle,Animal foods
+Beef,Animal foods
+Veal,Animal foods
+Walleye,Aquatic foods
+Alaska pollock,Aquatic foods
+Wasabi,Herbs and Spices
+Wax gourd,Vegetables
+Whelk,Aquatic foods
+Coalfish pollock,Aquatic foods
+Broad whitefish,Aquatic foods
+Whitefish,Aquatic foods
+Whiting,Aquatic foods
+Wild rice,Cereals and cereal products
+Tea leaf willow,Herbs and Spices
+Winged bean,Vegetables
+Yam,Vegetables
+Jicama,Vegetables
+Yautia,Vegetables
+Yellowfin tuna,Aquatic foods
+Yellowtail amberjack,Aquatic foods
+Pollock,Aquatic foods
+Albacore tuna,Aquatic foods
+Cod,Aquatic foods
+Atlantic halibut,Aquatic foods
+Pacific halibut,Aquatic foods
+Pacific salmon,Aquatic foods
+Smelt,Aquatic foods
+Herring,Aquatic foods
+Sardine,Aquatic foods
+Sprat,Aquatic foods
+Spiny lobster,Aquatic foods
+Snow crab,Aquatic foods
+Black-eyed pea,Vegetables
+Deer,Animal foods
+Macadamia nut,Nuts
+Bass,Aquatic foods
+Perch,Aquatic foods
+Arctic ground squirrel,Animal foods
+Rabbit,Animal foods
+Domestic goat,Animal foods
+Beefalo,Animal foods
+Antelope,Animal foods
+Clam,Aquatic foods
+Mussel,Aquatic foods
+Oyster,Aquatic foods
+Squid,Aquatic foods
+Shrimp,Aquatic foods
+Crayfish,Aquatic foods
+Flatfish,Aquatic foods
+Pig,Animal foods
+Piglet,Animal foods
+Pork,Animal foods
+Walrus,Aquatic foods
+Alaska wild rhubarb,Vegetables
+Oriental wheat,Cereals and cereal products
+Yardlong bean,Vegetables
+Great horned owl,Animal foods
+Quail,Animal foods
+Boysenberry,Fruits
+Persian lime,Fruits
+Feijoa,Fruits
+Rowal,Herbs and Spices
+Jew's ear,Vegetables
+mushroom,Vegetables
+Shiitake,Vegetables
+Purple laver,Aquatic foods
+Wakame,Aquatic foods
+Enokitake,Vegetables
+Epazote,Herbs and Spices
+Oyster mushroom,Vegetables
+Cloud ear fungus,Vegetables
+Maitake,Vegetables
+Ostrich fern,Vegetables
+Spot croaker,Aquatic foods
+Sourdock,Herbs and Spices
+Tinda,Vegetables
+Atlantic menhaden,Aquatic foods
+Wheat,Cereals and cereal products
+chokecherry,Fruits
+Agave,Vegetables
+Narrowleaf cattail,Vegetables
+Jellyfish,Aquatic foods
+Anchovy,Aquatic foods
+Blue whiting,Aquatic foods
+Carp bream,Aquatic foods
+Chanterelle,Vegetables
+Sturgeon,Aquatic foods
+Charr,Aquatic foods
+Cinnamon,Herbs and Spices
+Crab,Aquatic foods
+Spiny dogfish,Aquatic foods
+Duck,Animal foods
+Goose,Animal foods
+Swan,Animal foods
+Eel,Aquatic foods
+True frog,Aquatic foods
+Garfish,Aquatic foods
+Cod,Aquatic foods
+Hake,Aquatic foods
+Mountain hare,Animal foods
+Lake trout,Aquatic foods
+Lemon sole,Aquatic foods
+Clawed lobster,Aquatic foods
+Lumpsucker,Aquatic foods
+Bonito,Aquatic foods
+Mackerel,Aquatic foods
+Tuna,Aquatic foods
+Marine mussel,Aquatic foods
+Norway haddock,Aquatic foods
+Norway lobster,Aquatic foods
+Norway pout,Aquatic foods
+Oil palm,Herbs and Spices
+True oyster,Aquatic foods
+Sago palm,Herbs and Spices
+Persimmon,Fruits
+Pikeperch,Aquatic foods
+Dab,Aquatic foods
+Halibut,Aquatic foods
+Plaice,Aquatic foods
+Rock ptarmigan,Animal foods
+Pacific ocean perch,Aquatic foods
+Black salsify,Vegetables
+True seal,Aquatic foods
+Red algae,Aquatic foods
+Kombu,Aquatic foods
+Snail,Aquatic foods
+True sole,Aquatic foods
+Catfish,Aquatic foods
+Thistle,Vegetables
+Walnut,Nuts
+Dolphin,Aquatic foods
+Porpoise,Aquatic foods
+Whale,Aquatic foods
+Pigeon,Animal foods
+Dove,Animal foods
+Conch,Aquatic foods
+Grape wine,Beverages
+Berry wine,Beverages
+Wine,Beverages
+Apple cider,Beverages
+Liquor,Beverages
+Cheese,Milk and milk products
+Milk,Milk and milk products
+Egg,Eggs
+Yogurt,Milk and milk products
+Bean,Vegetables
+Vodka,Beverages
+Whisky,Beverages
+Ice cream,Confectioneries
+Gin,Beverages
+Honey,Confectioneries
+Liquorice,Confectioneries
+Vinegar,Baking goods
+Rum,Beverages
+Port wine,Beverages
+Vermouth,Beverages
+Sherry,Beverages
+Madeira wine,Beverages
+Nougat,Confectioneries
+Toffee,Confectioneries
+Cake,Confectioneries
+Pizza,Dishes
+Ymer,Milk and milk products
+Crisp bread,Cereals and cereal products
+Pastry,Confectioneries
+Dragibus,Confectioneries
+Chewing gum,Confectioneries
+Marzipan,Confectioneries
+Salad dressing,Baking goods
+Sauce,Baking goods
+Salt,Baking goods
+Butter,Milk and milk products
+Butter substitute,Baking goods
+Cream,Milk and milk products
+Brown sugar,Baking goods
+Sugar,Baking goods
+Sausage,Dishes
+Meatball,Dishes
+Mustard,Baking goods
+Pate,Dishes
+Sugar substitute,Baking goods
+Meat bouillon,Baking goods
+Meat,Animal foods
+Whey,Milk and milk products
+Casein,Milk and milk products
+Fruit preserve,Fruits
+Leavening agent,Baking goods
+Marshmallow,Confectioneries
+Gelatin,Baking goods
+Water,Beverages
+Fish,Aquatic foods
+Dumpling,Dishes
+Soup,Dishes
+Syrup,Baking goods
+Tallow,Fats and oils
+Remoulade,Baking goods
+Chocolate spread,Confectioneries
+Fruit gum,Confectioneries
+Curry powder,Herbs and Spices
+Meringue,Confectioneries
+Lard,Fats and oils
+Cocoa butter,Cocoa and cocoa products
+Cocoa powder,Cocoa and cocoa products
+Cocoa liquor,Cocoa and cocoa products
+Dark chocolate,Cocoa and cocoa products
+Milk chocolate,Cocoa and cocoa products
+Chocolate,Cocoa and cocoa products
+Hot chocolate,Cocoa and cocoa products
+Dried milk,Milk and milk products
+Kefir,Milk and milk products
+Buttermilk,Milk and milk products
+Soy sauce,Soy
+Miso,Soy
+Tofu,Soy
+Zwieback,Cereals and cereal products
+Roe,Aquatic foods
+Tilapia,Aquatic foods
+Icing,Confectioneries
+Snack bar,Snack foods
+Green turtle,Aquatic foods
+Energy drink,Beverages
+Burrito,Dishes
+Hamburger,Dishes
+Baked beans,Dishes
+Chili,Dishes
+Taco,Dishes
+Tortilla,Cereals and cereal products
+Nachos,Dishes
+Processed cheese,Milk and milk products
+Salad,Dishes
+Cream substitute,Baking goods
+Dulce de leche,Confectioneries
+Topping,Baking goods
+Sweet custard,Confectioneries
+Egg roll,Dishes
+Heart of palm,Vegetables
+Popcorn,Snack foods
+chips,Snack foods
+Tortilla,Snack foods
+Corn chip,Snack foods
+Hibiscus tea,Vegetables
+Stew,Dishes
+Gelatin dessert,Confectioneries
+Junket,Confectioneries
+Falafel,Dishes
+Frybread,Dishes
+Lasagna,Dishes
+Morel,Vegetables
+Pancake,Dishes
+Pectin,Baking goods
+Pudding,Confectioneries
+Waffle,Dishes
+Soy milk,Soy
+Meatloaf,Dishes
+Sake,Beverages
+Cocktail,Beverages
+Couscous,Dishes
+Bulgur,Cereals and cereal products
+Coffee substitute,Baking goods
+Coffee mocha,Coffee and coffee products
+Chimichanga,Dishes
+Semolina,Cereals and cereal products
+Tapioca pearl,Baking goods
+Tostada,Dishes
+Quesadilla,Dishes
+Baked potato,Dishes
+Hot dog,Dishes
+Spread,Baking goods
+Enchilada,Dishes
+Egg substitute,Baking goods
+Nutritional drink,Beverages
+Ketchup,Baking goods
+Breakfast sandwich,Dishes
+Adobo,Baking goods
+Macaroni and cheese,Dishes
+Butterfat,Milk and milk products
+Horned melon,Vegetables
+Hushpuppy,Dishes
+Fruit juice,Beverages
+Relish,Baking goods
+Fruit salad,Fruits
+Soy yogurt,Soy
+Vegetarian food,Dishes
+Veggie burger,Dishes
+Cold cut,Dishes
+Mixed nuts,Nuts
+Canola,Herbs and spices
+Babassu palm,Herbs and Spices
+Cupuai,Herbs and Spices
+Shea tree,Herbs and Spices
+Oil-seed Camellia,Herbs and Spices
+Ucuhuba,Herbs and Spices
+Phyllo dough,Baking goods
+Cooking oil,Baking goods
+Pie crust,Baking goods
+Pie filling,Baking goods
+Pie,Confectioneries
+Shortening,Fats and oils
+Soy cream,Soy
+Ice cream cone,Baking goods
+Molasses,Baking goods
+Cracker,Snack foods
+Nance,Fruits
+Naranjilla,Fruits
+Natto,Soy
+Ravioli,Dishes
+Scrapple,Dishes
+Succotash,Dishes
+Tamale,Dishes
+Rice cake,Dishes
+Tree fern,Vegetables
+Evaporated milk,Milk and milk products
+Flour,Cereals and cereal products
+Akutaq,Confectioneries
+Dough,Cereals and cereal products
+Pita bread,Cereals and cereal products
+Focaccia,Cereals and cereal products
+Bagel,Cereals and cereal products
+Piki bread,Cereals and cereal products
+French toast,Cereals and cereal products
+Wheat bread,Cereals and cereal products
+Rye bread,Cereals and cereal products
+Oat bread,Cereals and cereal products
+Potato bread,Cereals and cereal products
+Cornbread,Cereals and cereal products
+Corn grits,Cereals and cereal products
+Multigrain bread,Cereals and cereal products
+Rice bread,Cereals and cereal products
+Pan dulce,Cereals and cereal products
+Raisin bread,Cereals and cereal products
+Wonton wrapper,Baking goods
+Trail mix,Snack foods
+Greenthread tea,Vegetables
+Fruit-flavor drink,Beverages
+Vegetable juice,Beverages
+Horchata,Beverages
+Soft drink,Beverages
+Frozen yogurt,Confectioneries
+Milkshake,Confectioneries
+Chocolate mousse,Confectioneries
+Dripping,Fats and oils
+Pupusa,Dishes
+Empanada,Dishes
+Arepa,Dishes
+Ascidians,Aquatic foods
+Gefilte fish,Dishes
+Yellow pond-lily,Herbs and Spices
+Fish burger,Dishes
+Pot pie,Dishes
+Stuffing,Baking goods
+Edible shell,Baking goods
+Fudge,Confectioneries
+Candy bar,Confectioneries
+Condensed milk,Milk and milk products
+Margarine,Fats and oils
+Margarine-like spread,Fats and oils
+Hummus,Dishes
+Potato puffs,Dishes
+Potato gratin,Dishes
+Milk substitute,Baking goods
+Soft-necked garlic,Herbs and Spices
+Cabbage,Vegetables
+Chinese bayberry,Fruits
+Mushrooms,Vegetables
+Alcoholic beverages,Beverages
+Pomes,Fruits
+Brassicas,Vegetables
+Citrus,Fruits
+Crustaceans,Aquatic foods
+Oil,Fats and oils
+Fishes,Aquatic foods
+Herbs and Spices,Herbs and Spices
+Vegetables,Vegetables
+Mollusks,Aquatic foods
+Nuts,Nuts
+Beverages,Beverages
+Fruits,Fruits
+Root vegetables,Vegetables
+Sunburst squash,Vegetables
+Green zucchini,Vegetables
+Yellow zucchini,Vegetables
+Green bell pepper,Vegetables
+Yellow bell pepper,Vegetables
+Orange bell pepper,Vegetables
+Red bell pepper,Vegetables
+Italian sweet red pepper,Vegetables
+Yellow wax bean,Vegetables
+Green bean,Vegetables
+Saskatoon berry,Fruits
+Nanking cherry,Fruits
+Japanese pumpkin,Vegetables
+White cabbage,Vegetables
+Romaine lettuce,Vegetables
+Pumpkin,Vegetables
+Chili pepper,Herbs and Spices
+Chilli pepper,Herbs and Spices
+Bacon,Animal foods
+Black pepper,Herbs and Spices
+Baking powder,Baking goods
+Mozzarella,Milk and milk products
+Parmigiano-Reggiano,Milk and milk products
+Cheddar,Milk and milk products
+Swiss cheese,Milk and milk products
+Brie,Milk and milk products
+Gouda,Milk and milk products
+Feta,Milk and milk products
+Gruyere,Milk and milk products
+Monterey Jack,Milk and milk products
+Muenster,Milk and milk products
+Provolone,Milk and milk products
+Camembert,Milk and milk products
+Blue cheese,Milk and milk products
+Pecorino Romano,Milk and milk products
+Gorgonzola,Milk and milk products
+Havarti,Milk and milk products
+Buffalo mozzarella,Milk and milk products
+Edam,Milk and milk products
+Ricotta,Milk and milk products
+Parmigiano,Milk and milk products
+Goat cheese,Milk and milk products
+Roquefort,Milk and milk products
+Manchego,Milk and milk products
+Stilton,Milk and milk products
+Emmentaler,Milk and milk products
+cream cheese,Milk and milk products
+Comte,Milk and milk products
+comté,Milk and milk products
+grana padano,Milk and milk products
+Gouda,Milk and milk products
+Saint Albray,Milk and milk products
+Tomme de Savoie,Milk and milk products
+Macscarpone,Milk and milk products
+emmental,Milk and milk products
+orecchiette,Cereals and cereal products
+tagliatelle,Cereals and cereal products
+conchiglie,Cereals and cereal products
+pappardelle,Cereals and cereal products
+spaghetti,Cereals and cereal products
+bucatini,Cereals and cereal products
+pici,Cereals and cereal products
+fusilli,Cereals and cereal products
+linguine,Cereals and cereal products
+fettucine,Cereals and cereal products
+capellini,Cereals and cereal products
+rigatoni,Cereals and cereal products
+orzo,Cereals and cereal products
+macaroni,Cereals and cereal products
+farfalle,Cereals and cereal products
+penne,Cereals and cereal products
+noodles,Cereals and cereal products
+lasagna noodles,Cereals and cereal products
+parmesan,Milk and milk products
+olive oil,Fats and oils
+baking soda,Baking goods
+ghee,Fats and oils
+mustard seed,Herbs and Spices
+curry,Herbs and Spices
+cilantro,Herbs and Spices
+paprika,Herbs and Spices
+oat,Cereals and cereal products
+oat cereal,Cereals and cereal products
+corn syrup,Baking goods
+mayonnaise,Baking goods
+courgette,Vegetables
+zucchini,Vegetables
+aubergine,Vegetables
+steak,Animal foods
