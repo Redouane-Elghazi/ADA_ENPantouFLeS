@@ -47,7 +47,7 @@ Enguerrand Prebet \\
 \maketitle
 \begin{abstract}
 	
-	Can recipes be grouped into meaningful classes in terms of ingredients? Are these groups characterized by their distributions in carbs,fat and proteins?
+	Can recipes be grouped into meaningful classes in terms of ingredients? Are these groups characterized by their distributions in carbs,fat and proteins? Those are the questions we are going to try and answer.
 \end{abstract}
 
 \section{Database Presentation}
@@ -72,23 +72,23 @@ When looking at the nutritional informations, we saw that some recipes are too e
 
 \section{Clustering}
 % - vector representation
-To reorganize our different recipes into groups according to their ingredients, we need a decent representation. Our choice was to consider boolean value for each food group if a recipe contains an ingredients from that food group. This gives us a $N$-dimensional vector with value in $\{0,1\}^{N}$, with $N$ being the number of food group (11 in our case).
+To reorganize our different recipes into groups according to their ingredients, we needed a decent representation. Our choice was to consider boolean value for each food group. If a recipe contains an ingredients from that food group, this value is set to 1. This gives us a $N$-dimensional vector with value in $\{0,1\}^{N}$, with $N$ being the number of food group (11 in our case).
 
 % - k-means(full copy-paste + 11->N)
 We use a K-means clustering algorithm to create our recipe groups. Starting from K random means, we assign each recipe to the closest mean (the distance being defined as the sum of differences over the $N$ elements). Then each mean is updated to correspond to the effective mean of the elements assigned to this mean.
 
-In practice, though recipes get values in $\{0,1\}^{N}$, the means have real values in $[0,1]^{N}$ to get the best possible clustering.
+In practice, even though recipes get discrete values in $\{0,1\}^{N}$, the means have real values in $[0,1]^{N}$ to get the best possible clustering.
 
 Moreover, after having tested different values of K to study the convergence of the groups, we set the option to fix the initial means, for reproducibility.
 
 \section{First results}
 %- results (full pompé)
-After several tests, the more meaningful number of groups seems to be 4. By meaningful, we mean that we can visualize what the groups represent. Recall that the output of the algorithm is the assignement vector for each recipe, and the mean vectors. We then need to interpret the meaning of those means:
+After several tests, the more meaningful number of groups seems to be 4. By meaningful, we mean that we can visualize what the groups represent. Recall that the output of the algorithm is an assignment vector for each recipe, and the mean vectors. We then need to interpret the meaning of those means:
 
 \begin{itemize}
 \item the first group represents desserts based on complex preparations, mostly with eggs and flour or other cereal base, such as pies, cakes, muffins,...
-\item the second group represents more simple desserts, with fewer ingredients and more fruit-based, such as fruit salads, baked apples,... but also chocolate mousse,...
-\item the third group consists in complex prepared meals, with meat and vegetables. It uses a lot of different food groups (eggs, dairy, fats) and can for example be stews, boeuf bourguignon,...
+\item the second group represents simpler desserts, with fewer ingredients and more fruit-based, such as fruit salads, baked apples,... but also chocolate mousse,...
+\item the third group consists of complex prepared meals, with meat and vegetables. It uses a lot of different food groups (eggs, dairy, fats) and can for example be stews, boeuf bourguignon,...
 \item the last group is easy-to-do dishes with meat and vegetables. It uses more condiments (mustard, sauces,...) and can be bolognese pasta, hot-dogs,...
 \end{itemize}
 
