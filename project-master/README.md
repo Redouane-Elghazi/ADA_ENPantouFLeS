@@ -1,4 +1,4 @@
-# Cooking for dummies
+# Of Recipes and Ingredients
 
 # Abstract
 Eating is one of the core actions we do everyday. But cooking does not seem to be as core as eating, as precooked food seem to be more popular than ever. Moreover, with the restructuring of the society in terms of gender, cooking lessons are now meant for specialists that intend to work as cooks. Because of that, people don't necessarily know how to cook anymore.
