@@ -1,0 +1,656 @@
+name,food_group
+salt,herbs & spices
+onion,vegetables
+sugar,confectioneries
+butter,dairy
+egg,eggs
+garlic,herbs & spices
+flour,cereals & nuts
+cheese,dairy
+milk,dairy
+oil,fats & oils
+chicken,meat
+olive oil,fats & oils
+vanilla,herbs & spices
+black pepper,herbs & spices
+pepper,herbs & spices
+tomato,vegetables
+brown sugar,confectioneries
+lemon,fruits
+cinnamon,herbs & spices
+cream,dairy
+baking powder,confectioneries
+corn,cereals & nuts
+beef,meat
+parsley,herbs & spices
+baking soda,confectioneries
+celery,herbs & spices
+carrot,vegetables
+potato,vegetables
+mushroom,vegetables
+parmesan,dairy
+cheddar,dairy
+bread,cereals & nuts
+cream cheese,dairy
+sour cream,dairy
+margarine,fats & oils
+rice,cereals & nuts
+bean,vegetables
+chocolate,confectioneries
+basil,herbs & spices
+oregano,herbs & spices
+mustard,condiment
+ginger,herbs & spices
+apple,fruits
+soy sauce,condiment
+cumin,herbs & spices
+mayonnaise,condiment
+nutmeg,herbs & spices
+vinegar,condiment
+thyme,herbs & spices
+walnut,cereals & nuts
+chips,vegetables
+red pepper,vegetables
+pork,meat
+cilantro,herbs & spices
+honey,confectioneries
+green bell pepper,vegetables
+paprika,herbs & spices
+chili,meat
+bacon,meat
+orange,fruits
+lime,fruits
+almond,cereals & nuts
+pecan,cereals & nuts
+cayenne pepper,herbs & spices
+worcestershire sauce,condiment
+wheat,cereals & nuts
+ham,meat
+cake,confectioneries
+spinach,vegetables
+mozzarella,dairy
+red bell pepper,vegetables
+shortening,fats & oils
+oat,cereals & nuts
+coconut,fruits
+pasta,cereals & nuts
+raisin,fruits
+yeast,confectioneries
+bay leaf,herbs & spices
+peppers,vegetables
+sausage,meat
+pumpkin,vegetables
+wine vinegar,condiment
+tomato sauce,condiment
+zucchini,vegetables
+turkey,meat
+pineapple,fruits
+canola,herbs & spices
+white wine,beverages
+meat,meat
+cracker,cereals & nuts
+banana,fruits
+tortilla,cereals & nuts
+pie,confectioneries
+sesame,herbs & spices
+buttermilk,dairy
+broccoli,vegetables
+jalapeno,vegetables
+olive,vegetables
+shrimp,meat
+ling,meat
+dill,herbs & spices
+onion powder,herbs & spices
+peanut butter,confectioneries
+rosemary,herbs & spices
+strawberry,fruits
+yogurt,dairy
+topping,confectioneries
+cocoa powder,confectioneries
+ketchup,condiment
+pea,vegetables
+cider vinegar,condiment
+pudding,confectioneries
+steak,meat
+balsamic vinegar,condiment
+cabbage,vegetables
+ground clove,herbs & spices
+cranberry,fruits
+half-and-half,dairy
+evaporated milk,dairy
+cucumber,vegetables
+noodle,cereals & nuts
+salsa,condiment
+corn syrup,confectioneries
+squash,vegetables
+monterey jack,dairy
+allspice,herbs & spices
+green bean,vegetables
+salad dressing,condiment
+sage,herbs & spices
+sweet potato,vegetables
+breadcrumb,cereals & nuts
+shallot,vegetables
+peanut,cereals & nuts
+feta,dairy
+lettuce,vegetables
+cherry,fruits
+cornmeal,cereals & nuts
+condensed milk,dairy
+salmon,meat
+hot pepper sauce,condiment
+ricotta,dairy
+blueberry,fruits
+pie crust,cereals & nuts
+curry powder,herbs & spices
+coriander,herbs & spices
+avocado,vegetables
+peach,fruits
+marshmallow,confectioneries
+swiss cheese,dairy
+red wine,beverages
+green pepper,vegetables
+mint,herbs & spices
+raspberry,fruits
+molasses,confectioneries
+grape,fruits
+sherry,beverages
+macaroni,cereals & nuts
+chives,herbs & spices
+maple syrup,confectioneries
+tofu,meat
+gelatin,confectioneries
+taco,meat
+pear,fruits
+eel,meat
+cauliflower,vegetables
+hot sauce,condiment
+spaghetti,cereals & nuts
+cocoa,confectioneries
+rum,beverages
+turmeric,herbs & spices
+eggplant,vegetables
+cereals and nuts,cereals & nuts
+scallion,vegetables
+coffee,confectioneries
+beer,beverages
+artichoke,vegetables
+asparagus,vegetables
+spaghetti sauce,condiment
+vegetables,vegetables
+wine,beverages
+lentil,vegetables
+pickle,vegetables
+dough,cereals & nuts
+lasagna noodle,cereals & nuts
+marjoram,herbs & spices
+butternut,vegetables
+cherry tomato,vegetables
+pie filling,fruits
+salad,vegetables
+apricot,fruits
+stuffing,meat
+berry,fruits
+leek,vegetables
+sirloin,meat
+date,fruits
+romano cheese,dairy
+egg substitute,eggs
+ice cream,confectioneries
+capers,herbs & spices
+blue cheese,dairy
+penne,cereals & nuts
+chuck,meat
+plum tomato,vegetables
+romaine lettuce,vegetables
+barbecue sauce,condiment
+sugar substitute,confectioneries
+clam,meat
+yellow bell pepper,vegetables
+lamb,meat
+sunflower,herbs & spices
+milk chocolate,confectioneries
+fish,meat
+stew,meat
+chili sauce,condiment
+chestnut,cereals & nuts
+cardamom,herbs & spices
+liqueur,beverages
+barley,cereals & nuts
+tuna,meat
+quinoa,herbs & spices
+tarragon,herbs & spices
+caramel,confectioneries
+mango,fruits
+chickpea,vegetables
+tilapia,meat
+poppy,herbs & spices
+hen,meat
+horseradish,herbs & spices
+pizza,meat
+fennel,herbs & spices
+pine nut,cereals & nuts
+cajun,herbs & spices
+chipotle,condiment
+mustard seed,herbs & spices
+kale,vegetables
+relish,condiment
+fish sauce,condiment
+hamburger,meat
+biscuit,cereals & nuts
+provolone,dairy
+cooking oil,fats & oils
+beet,vegetables
+vodka,beverages
+enchilada sauce,condiment
+cayenne,herbs & spices
+processed cheese,dairy
+brandy,beverages
+tabasco,condiment
+pectin,confectioneries
+liquid smoke,condiment
+pretzel,cereals & nuts
+pasta sauce,condiment
+spread,confectioneries
+scallop,meat
+pepperoni,meat
+caraway,herbs & spices
+cod,meat
+cocktail,beverages
+curry,herbs & spices
+soy milk,dairy
+masala,herbs & spices
+pistachio,cereals & nuts
+shiitake,vegetables
+cashew,cereals & nuts
+chili pepper,herbs & spices
+goat cheese,dairy
+pesto,condiment
+teriyaki,condiment
+barbeque sauce,condiment
+wild rice,cereals & nuts
+apple cider,beverages
+linguine,cereals & nuts
+tahini,cereals & nuts
+hoisin sauce,condiment
+blackberry,fruits
+tea,vegetables
+lemonade,beverages
+veal,meat
+icing,confectioneries
+crab,meat
+lard,fats & oils
+rhubarb,vegetables
+popcorn,cereals & nuts
+prosciutto,meat
+plum,fruits
+parsnip,vegetables
+sourdough,cereals & nuts
+bourbon,beverages
+peppermint,herbs & spices
+celery stalk,vegetables
+okra,vegetables
+crouton,cereals & nuts
+couscous,cereals & nuts
+oyster sauce,condiment
+dark chocolate,confectioneries
+cornbread,cereals & nuts
+gruyere,dairy
+jelly,confectioneries
+turnip,herbs & spices
+wheat bread,cereals & nuts
+fudge,confectioneries
+radish,vegetables
+marinara sauce,condiment
+lima bean,vegetables
+rye,cereals & nuts
+anchovy,meat
+agave,vegetables
+oyster,meat
+arugula,vegetables
+fettuccine,cereals & nuts
+salami,meat
+dripping,fats & oils
+black-eyed pea,vegetables
+red pepper sauce,condiment
+pizza sauce,condiment
+parmigiano-reggiano,dairy
+anise,herbs & spices
+adobo sauce,condiment
+lobster,meat
+hazelnut,cereals & nuts
+saffron,herbs & spices
+halibut,meat
+acorn,cereals & nuts
+gorgonzola,dairy
+mayo,condiment
+orzo,cereals & nuts
+vegetable juice,beverages
+toffee,confectioneries
+yam,vegetables
+venison,meat
+hominy,cereals & nuts
+tequila,beverages
+fig,fruits
+kiwi,fruits
+champagne,beverages
+spelt,cereals & nuts
+pomegranate,fruits
+wonton wrapper,cereals & nuts
+alfredo sauce,condiment
+candy bar,confectioneries
+mascarpone,dairy
+watermelon,vegetables
+napa cabbage,vegetables
+meatball,meat
+whiskey,beverages
+mussel,meat
+miso,condiment
+farfalle,cereals & nuts
+pita bread,cereals & nuts
+baked beans,vegetables
+swiss chard,vegetables
+tuna steak,meat
+hot dog,meat
+macadamia nut,cereals & nuts
+flaxseed,herbs & spices
+sake,beverages
+rye bread,cereals & nuts
+adobo,meat
+mace,herbs & spices
+cola,beverages
+phyllo dough,cereals & nuts
+picante sauce,condiment
+tater tots,meat
+orange bell pepper,vegetables
+yellow pepper,vegetables
+pancake,confectioneries
+millet,cereals & nuts
+whey,dairy
+brie,dairy
+buckwheat,cereals & nuts
+wasabi,herbs & spices
+gouda,dairy
+ravioli,cereals & nuts
+pancetta,meat
+rigatoni,cereals & nuts
+polenta,vegetables
+bamboo shoots,vegetables
+persimmon,fruits
+triple sec,beverages
+guacamole,vegetables
+bulgur,cereals & nuts
+amaretto,beverages
+club soda,beverages
+jicama,vegetables
+taco sauce,condiment
+haddock,meat
+escarole,vegetables
+pecorino romano,dairy
+corn chip,cereals & nuts
+vermouth,beverages
+buffalo wing sauce,condiment
+ghee,fats & oils
+lemon grass,herbs & spices
+grapefruit,fruits
+watercress,herbs & spices
+sweet cherry,fruits
+arrowroot,vegetables
+mixed cereals and nuts,cereals & nuts
+snapper,meat
+mung bean,vegetables
+prawn,meat
+rutabaga,vegetables
+muenster,dairy
+safflower,herbs & spices
+fusilli,cereals & nuts
+grand marnier,beverages
+cheese sauce,condiment
+oat cereal,cereals & nuts
+nectarine,fruits
+granola,confectioneries
+celery leaves,herbs & spices
+star anise,herbs & spices
+egg roll,eggs
+mahi mahi,meat
+sour cherry,fruits
+albacore tuna,meat
+duck,meat
+gin,beverages
+pico de gallo,vegetables
+hummus,cereals & nuts
+french fries,vegetables
+hake,meat
+endive,vegetables
+grenadine,beverages
+sprite,beverages
+fruit juice,beverages
+citrus,fruits
+tamarind,fruits
+savoy cabbage,vegetables
+bass,meat
+papaya,fruits
+candied citron,confectioneries
+kirsch,beverages
+port wine,beverages
+pink salmon,meat
+catfish,meat
+gnocchi,cereals & nuts
+swordfish,meat
+frozen yogurt,confectioneries
+fruits,fruits
+mexican oregano,herbs & spices
+bagel,cereals & nuts
+guava,fruits
+fenugreek,herbs & spices
+grouper,meat
+chervil,herbs & spices
+tamale,vegetables
+semolina,cereals & nuts
+sorghum,cereals & nuts
+pastry sheet,confectioneries
+baked potato,vegetables
+squid,meat
+winter squash,vegetables
+trout,meat
+seaweed,meat
+orange roughy,meat
+focaccia,cereals & nuts
+carob,vegetables
+roquefort,dairy
+custard,confectioneries
+soft drink,beverages
+daikon radish,vegetables
+rabbit,meat
+browning sauce,condiment
+meatloaf,meat
+cashew nut,cereals & nuts
+liquor,beverages
+tostada,meat
+summer savory,herbs & spices
+red raspberry,fruits
+alfalfa,herbs & spices
+orecchiette,cereals & nuts
+buffalo,meat
+lasagna,meat
+chia,herbs & spices
+dulce de leche,confectioneries
+adzuki bean,vegetables
+chinese cabbage,vegetables
+burrito,meat
+red rice,cereals & nuts
+kumquat,fruits
+croissant,cereals & nuts
+blue crab,meat
+raisin bread,cereals & nuts
+waffle,confectioneries
+fruit preserve,fruits
+cointreau,beverages
+madeira wine,beverages
+black walnut,cereals & nuts
+pigeon pea,vegetables
+havarti,dairy
+gelatin dessert,confectioneries
+agar,meat
+asian pear,fruits
+kefir,dairy
+gooseberry,fruits
+amaranth,herbs & spices
+mortadella,meat
+multigrain bread,cereals & nuts
+pate,meat
+deer,meat
+conch,meat
+shark,meat
+celeriac,vegetables
+monkfish,meat
+kohlrabi,vegetables
+elk,meat
+bluefish,meat
+ice cream cone,confectioneries
+soy yogurt,dairy
+manchego,dairy
+goose,meat
+kelp,meat
+edam,dairy
+marzipan,confectioneries
+natto,cereals & nuts
+passion fruit,fruits
+cornichon,vegetables
+brussel sprouts,vegetables
+brazil nut,cereals & nuts
+huckleberry,fruits
+yellow wax bean,vegetables
+striped bass,meat
+meringue,confectioneries
+dumpling,meat
+rainbow trout,meat
+chanterelle,vegetables
+pheasant,meat
+taro,vegetables
+ice tea,beverages
+snow crab,meat
+parmigiano,dairy
+courgette,vegetables
+perch,meat
+sardine,meat
+emmentaler,dairy
+bison,meat
+sorrel,herbs & spices
+spearmint,herbs & spices
+yellowfin tuna,meat
+milk substitute,dairy
+morel,vegetables
+chayote,vegetables
+herbs and spices,herbs & spices
+boysenberry,fruits
+lemon thyme,herbs & spices
+atlantic salmon,meat
+capellini,cereals & nuts
+chokecherry,fruits
+clementine,fruits
+oyster mushroom,vegetables
+wakame,meat
+macaroni and cheese,cereals & nuts
+dungeness crab,meat
+truffle,vegetables
+bechamel,condiment
+fireweed,herbs & spices
+white cabbage,vegetables
+cocoa butter,confectioneries
+herring,meat
+smelt,meat
+grana padano,dairy
+octopus,meat
+tangerine,fruits
+remoulade,condiment
+moose,meat
+whitefish,meat
+butter substitute,fats & oils
+soy bean,vegetables
+buffalo mozzarella,dairy
+hot chocolate,confectioneries
+broad bean,vegetables
+energy drink,beverages
+teff,herbs & spices
+elderberry,fruits
+quesadilla,meat
+borage,herbs & spices
+tagliatelle,cereals & nuts
+mutton,meat
+crayfish,meat
+casein,dairy
+green zucchini,vegetables
+antelope,meat
+lingonberry,fruits
+whisky,beverages
+swede,vegetables
+quail,meat
+nougat,confectioneries
+purslane,herbs & spices
+chocolate mousse,confectioneries
+kombu,meat
+walleye,meat
+bucatini,cereals & nuts
+jerusalem artichoke,vegetables
+fleur de sel,herbs & spices
+roe,meat
+pig,meat
+lemon balm,herbs & spices
+irish moss,meat
+sweet orange,fruits
+star fruit,fruits
+corn grits,cereals & nuts
+empanada,meat
+emmental,dairy
+potato bread,cereals & nuts
+pappardelle,cereals & nuts
+chocolate spread,confectioneries
+hibiscus tea,vegetables
+french toast,cereals & nuts
+japanese pumpkin,vegetables
+triticale,cereals & nuts
+epazote,herbs & spices
+trail mix,cereals & nuts
+jellyfish,meat
+pollock,meat
+burdock,vegetables
+chewing gum,confectioneries
+bonito,meat
+lovage,herbs & spices
+yautia,vegetables
+arrowhead,vegetables
+tallow,fats & oils
+garden tomato,vegetables
+fishes,meat
+caviar,meat
+yardlong bean,vegetables
+junket,confectioneries
+turbot,meat
+winter savory,herbs & spices
+white mustard,herbs & spices
+spirit,beverages
+quince,fruits
+jackfruit,fruits
+beaver,meat
+breakfast cereal,cereals & nuts
+chicory,vegetables
+chinese broccoli,vegetables
+lemon sole,meat
+yellow zucchini,vegetables
+carp,meat
+root vegetables,vegetables
+spirulina,meat
+opossum,meat
+pecan nut,cereals & nuts
+rooster,meat
+comte,dairy
+sturgeon,meat
+pacific cod,meat
+aubergine,vegetables
+lotus,herbs & spices
+arepa,cereals & nuts
+nopal,vegetables
+stilton,dairy
+orange pepper,vegetables
+chum salmon,meat
