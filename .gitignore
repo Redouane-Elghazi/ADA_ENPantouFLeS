@@ -55,3 +55,6 @@ HW4/.ipynb_checkpoints/hw4-checkpoint.ipynb
 *.log
 *.pdf
 *.gz
+*.aux
+*.bbl
+*.blg
