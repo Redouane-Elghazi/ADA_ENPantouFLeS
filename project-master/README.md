@@ -43,8 +43,20 @@ Here are all the options we would like to implement:
 * specify what kind of accompanying food you are looking for (meat,fruit,spices,...)
 
 
-## Question for TA
+## Contributions
 
-We did took note of your advice to modify and clarify our README. We hope it better corresponds to your expectations. If not, please do let us know what we still need to improve.
+Enguerrand:
+- Getting the data
+- Applying Machine Learning algorithms
+- Writing the report
 
+Pierre:
+- Extending the external data
+- Visualizing plots
+- Final presentation
+
+Redouane:
+- Problem formulation
+- Writing the report
+- Final presentation
 
