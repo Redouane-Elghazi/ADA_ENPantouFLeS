@@ -19,6 +19,7 @@
 \usepackage{times}
 \usepackage{url}
 \usepackage{latexsym}
+\usepackage{graphicx}
 
 %\setlength\titlebox{5cm}
 
@@ -48,7 +49,7 @@ Enguerrand Prebet \\
 \end{abstract}
 
 \section{Database Presentation}
-% - recipes with nutriments
+% - recipes with nutrients
 We gather the data from \cite{WestWhiteHorvitzWWW2013}. This data contains recipes from several cooking websites. A recipe entry have informations such as the calories (fat, proteins, carb) and the ingredients. 
 
 % - external ingredients
@@ -94,11 +95,71 @@ The split of the groups can be considered using 2 questions:
 	\item Is this a main course ?
 	\item Is it simple ?
 \end{itemize}
-\section{Classification by the nutriments}
-- analysis of distributions (je ne sais pas trop quoi dire à part redire la même chose)
 
-- propensity score
+\section{Classification by the nutrients}
+% - analysis of distributions (je ne sais pas trop quoi dire à part redire la même chose mais sans les graphes c'est, chô)
 
+\begin{figure}[!h]
+	\includegraphics[width=\columnwidth]{../propensity-r.png}
+	\caption{Figure qui a un nom vachement plus long}
+	\label{fig:1}
+\end{figure}
+
+We see that more complex recipes (0,2) have more calories than their simpler counterparts (respectively 1,3).
+
+Moreover, quite surprisingly, main courses recipes (2,3) are in average more calorific than dessert recipes (0,1). They also have more recipes with very high calories, compared to dessert recipes.
+
+This could be linked to desserts often considered full of fats and sugar, thus pushing people to develop and publish a lot of low-fat, low-calories dessert recipes in the 2010's. It also comes with the fact that there are a lot of subtitutes for sugar, milk and eggs.
+
+\begin{figure}[!h]
+	\includegraphics[width=\columnwidth]{../propensity-r.png}
+	\caption{Figure qui a un nom vachement plus long}
+	\label{fig:2}
+\end{figure}
+
+We observe very different distributions of the carb proportion:
+
+group 0 is pretty gathered around its mean, which is quite high. It seems complex desserts have high rates of carbs.
+group 1 is quite regular: there is almost a uniform distribution of carb proportions. Thus simple desserts are not characterized by their carb rate.
+group 2 and 3 have pretty low carb rates compared to the desserts groups. However simple main courses (3) can get to a high rate of carbs.
+
+\begin{figure}[!h]
+	\includegraphics[width=\columnwidth]{../propensity-r.png}
+	\caption{Figure qui a un nom vachement plus long}
+	\label{fig:3}
+\end{figure}
+
+For the proteins distribution, we can observe a great distinction between the desserts (0,1) and the main courses (2,3). The desserts have very low rates of proteins, and very centered around the mean.
+
+The proteins proportion is sparse for the 2nd group, and even more spread for the 3rd group.
+
+\begin{figure}[!h]
+	\includegraphics[width=\columnwidth]{../propensity-r.png}
+	\caption{Figure qui a un nom vachement plus long}
+	\label{fig:4}
+\end{figure}
+
+The fat proportions are quite different among groups too. For group 1, the distribution is relatively uniform, a bit "squeezed" aroun the first quartile.
+
+The distribution for group 0 is symmetric around the mean at 0.4, whereas distributions for groups 2,3 are more spread.
+
+We also observe that complex recipes (0,2) have in average a higher fat rate than more simpler recipes (1,3).
+
+
+% - propensity score
+To test how well the nutrients describe the four groups, we use logistic regressions to obtain propensity scores for our 2 questions.
+
+Our results are shown in \textsc{Figure} \ref{fig:end}. We notice mainly two things:
+\begin{itemize}
+\item the distinction main course/ dessert is pretty clear: groups 0 and 1 are both clearly identified as desserts. For groups 2 and 3, there is a residual tail but the main part is identified as main course
+\item however the distinction between simple and complex recipes is not as correct. We see recipes are mostly considered simple, even if group 3 is not that far of being identified. Group 1 is quite out of the target zone.
+\end{itemize}
+\clearpage
+\begin{figure}[!h]
+	\includegraphics[width=\textwidth]{../propensity-r.png}
+	\caption{Figure qui a un nom vachement plus long}
+	\label{fig:end}
+\end{figure}
 \section{Conclusions}
 
 \begin{thebibliography}{}
