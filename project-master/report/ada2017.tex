@@ -18,6 +18,7 @@
 \usepackage{acl2014}
 \usepackage{times}
 \usepackage{url}
+\usepackage[hidelinks]{hyperref}
 \usepackage{latexsym}
 
 %\setlength\titlebox{5cm}
@@ -29,11 +30,11 @@
 
 % !TeX spellcheck = en_GB 
 
-\title{Name of your project}
+\title{Of recipes and ingredients}
 
 \author{Redouane Elghazi \\
   {\tt redouane.elghazi@epfl.ch} \\\And
-  Pierre Mahmoud--Lamy \\
+  \\\\\textbf{Pierre Mahmoud--Lamy} \\
   {\tt pierre.mahmoud-lamy@epfl.ch} \\\And
 Enguerrand Prebet \\
 {\tt enguerrand.prebet@epfl.ch} \\}
@@ -49,19 +50,19 @@ Enguerrand Prebet \\
 
 \section{Database Presentation}
 % - recipes with nutriments
-We gather the data from \cite{WestWhiteHorvitzWWW2013}. This data contains recipes from several cooking websites. A recipe entry have informations such as the calories (fat, proteins, carb) and the ingredients. 
+We gathered the data from \newcite{WestWhiteHorvitzWWW2013}. This data contains recipes from several cooking websites. A recipe entry has informations such as the calories (fat, proteins, carb) and the list of the ingredients. 
 
 % - external ingredients
-To only extract the ingredients from the list, we used an external data base from  http://openfood.schoolofdata.ch/food-composition-ch/ as a starting point. It contains foods but also a food group such as "vegetables" or "cereals".
+To only extract the ingredients from the list, we used an external data base from \href{http://openfood.schoolofdata.ch}{openfood.schoolofdata.ch} as a starting point. It contains a list ingredients but also a groups for these ingredients such as "vegetables" or "cereals".
 
 % - additional items added
-We had to append words that were not in the database but that appears in recipes, especially cheese names, pasta names and different types of sauce.
+We had to append words that were not in the database but that appear in recipes, especially for cheese names, pasta names and sauce names.
 
-\section{Processing the database}
+\section{Preprocessing the database}
 % - extract ingredients list
-To only extract foods ingredients and not quantities or others words, we consider our external database with words sorted by decreasing length. For each ingredient, we then process through the recipes and check if it appears in the string of ingredients. In that case, we add it to our list of ingredients and delete it from the string.
+Each recipe was represented as one long string. To only extract ingredients as opposed to quantities and others words that may appear in a recipe, we considered our external database with words sorted by decreasing length. For each ingredient, we then processed through the recipes and checked if it appeared in the string of ingredients. In that case, we added it to our list of ingredients and deleted it from the string.
 
-By sorting and deleting ingredients, we ensure that combination of words like "black pepper" is found without also finding "pepper". Some words were still matched incorrectly, with "tea" found in recipes because of the use of "teaspoon", and "gin" found in "virgin" for instance. So before looking for our ingredients, we preprocess the recipe's ingredients by removing those words first.
+By sorting and deleting ingredients, we ensure that combination of words like "black pepper" is found without also finding "pepper". Some words were still matched incorrectly, with "tea" found in recipes because of the use of "teaspoon", and "gin" found in "virgin" for instance. So before looking for our ingredients, we preprocessed the recipe by removing those words first.
 We also took into consideration plural and separators.
 
 % - normalize kcal
