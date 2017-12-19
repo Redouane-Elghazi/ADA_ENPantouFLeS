@@ -34,6 +34,8 @@ plt.figure()
 x = list(nb_words.keys())
 y = list(nb_words.values())
 plt.plot(x,y,'.')
+plt.xscale('log')
+plt.yscale('log')
 plt.xlabel('Number of occurences')
 plt.ylabel('Number of distincts words')
 plt.show()
@@ -69,3 +71,22 @@ plt.plot(x,y)
 plt.xlabel("Number of occurences")
 plt.ylabel("Cumulative number of words (in %)")
 plt.show()
+
+plt.close('all')
+
+import GUI
+
+from tkinter import Tk
+
+fenetre = Tk()
+interface = GUI.Interface(fenetre,unique_words)
+
+interface.mainloop()
+
+yes_l = interface.yes_l
+no_l = interface.no_l
+g = interface.gen
+
+interface.destroy()
+
+fenetre.destroy()
